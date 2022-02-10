@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace MeetAnghan_Assignment2
+namespace NUnitRectangle
 {
     class Program
     {
